@@ -2,7 +2,7 @@
 
 ## Despre Proiect
 
-Acest proiect vizează dezvoltarea unei aplicații web pentru dezvoltarea unei aplicații software care integrează funcționalități legate de cercetare științifică și utilizează serviciile sau API-ul Mendeley. 
+Acest proiect vizează dezvoltarea unei aplicații web pentru dezvoltarea unei aplicații software care integrează funcționalități legate de cercetare științifică și utilizează serviciile sau API-ul Mendeley. Scopul este de a gestiona și a partaja lucrări de cercetare și pentru a genera bibliografii pentru articolele academice.
 
 ## Caracteristici Tehnice
 
@@ -12,8 +12,8 @@ Acest proiect vizează dezvoltarea unei aplicații web pentru dezvoltarea unei a
 - **Bază de Date:** MySQL/PostgreSQL.
 - **ORM:** Sequelize/TypeORM.
 - **Entități:**
-  - **Candidat** (părinte): Informații personale, experiență, educație.
-  - **Aplicație Job** (copil): Detalii despre aplicațiile la joburi.
+  - **Lucrare** (părinte): Informații despre autor, data lansarii, locul unde a fost publicata.
+  - **Aplicație Cercetari** (copil): Detalii despre scopul cercetarii.
 - **Autentificare:** JWT.
 
 ### Frontend
@@ -23,7 +23,7 @@ Acest proiect vizează dezvoltarea unei aplicații web pentru dezvoltarea unei a
 
 ### Integrare Serviciu Extern
 
-- **API LinkedIn:** Importul datelor de profil și istoricul profesional.
+- **API Mendeley:** Importul datelor pentru articolele academice.
 
 ### Stil și Calitatea Codului
 
@@ -43,7 +43,7 @@ Acest proiect vizează dezvoltarea unei aplicații web pentru dezvoltarea unei a
 
 1. **Planificare și Design**
 2. **Dezvoltare Backend și Frontend**
-3. **Integrare cu API-ul LinkedIn**
+3. **Integrare cu API-ul Mendeley**
 4. **Testare**
 5. **Lansare și Mentenanță**
 6. **Documentație**
