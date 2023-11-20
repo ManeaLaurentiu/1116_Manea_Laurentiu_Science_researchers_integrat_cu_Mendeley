@@ -1,1 +1,1 @@
-# Cercetatori in Stiinta integrat cu Mendeley
+# Cercetători in Știință integrat cu Mendeley
