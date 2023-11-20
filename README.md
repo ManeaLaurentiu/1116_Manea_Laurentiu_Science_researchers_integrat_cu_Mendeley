@@ -2,7 +2,7 @@
 
 ## Despre Proiect
 
-Acest proiect vizează dezvoltarea unei aplicații web pentru dezvoltarea unei aplicații software care integrează funcționalități legate de cercetare științifică și utilizează serviciile sau API-ul Mendeley. Scopul este de a gestiona și a partaja lucrări de cercetare și pentru a genera bibliografii pentru articolele academice.
+Acest proiect vizează dezvoltarea unei aplicații web care integrează funcționalități legate de cercetare științifică și utilizează serviciile sau API-ul Mendeley. Scopul este de a gestiona și a partaja lucrări de cercetare și pentru a genera bibliografii pentru articolele academice.
 
 ## Caracteristici Tehnice
 
