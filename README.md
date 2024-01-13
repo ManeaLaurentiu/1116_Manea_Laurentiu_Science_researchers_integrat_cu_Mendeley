@@ -9,7 +9,7 @@ Acest proiect vizează dezvoltarea unei aplicații web care integrează funcțio
 ### Backend
 
 - **Tehnologie:** Node.js cu Express.
-- **Bază de Date:** MySQL/PostgreSQL.
+- **Bază de Date:** MySQL/HeidiSQL.
 - **ORM:** Sequelize/TypeORM.
 - **Entități:**
   - **Lucrare** (părinte): Informații despre autor, data lansarii, locul unde a fost publicata.
